@@ -1,0 +1,4 @@
+Failed to OCR (to JSON) ../data/sdd-data\c1\สถานีไฟฟ้าลำลูกกา 3 (คพจ.2).pdf: Internal Server Error
+Failed to OCR (to JSON) ../data/sdd-data\s1\สฟ.ปากท่อ 2 (อนุมัติ + แบบ).pdf: Internal Server Error
+Failed to OCR (to JSON) ../data/sdd-data\ne2\อนุมัติ อุบล 5.pdf: Internal Server Error
+Failed to OCR (to JSON) ../data/sdd-data\ne2\สำเนาอนุมัติแบบและค่าใช้จ่ายสฟ.กันทรวิชัย.pdf: Internal Server Error
