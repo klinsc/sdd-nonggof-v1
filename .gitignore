@@ -1,3 +1,4 @@
 data/sdd-data/**/*
 __pycache__/
 .env
+/data/apcoppies
